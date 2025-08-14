@@ -1,2 +1,4 @@
 # Covid-19-Report-Dasboard
-Covid-19 Report Dashboard – An interactive Power BI dashboard analyzing global Covid-19 data to track confirmed cases, deaths, recoveries, active cases, and weekly trends across countries and WHO regions. Includes KPIs, visual comparisons, and percentage increases to monitor pandemic impact and identify the most affected areas.
+
+## Project Objective:
+The objective of this project is to analyze global Covid-19 data to track confirmed cases, deaths, recoveries, and active cases across countries and WHO regions. The goal is to provide a clear, interactive view of the pandemic’s impact, identify the most affected regions, and monitor weekly changes to support data-driven health and policy decisions.
