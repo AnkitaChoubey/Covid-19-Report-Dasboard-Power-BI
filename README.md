@@ -29,5 +29,22 @@ The objective of this project is to analyze global Covid-19 data to track confir
   ## Dashboard: 
   ![Covid -19 Report](https://github.com/user-attachments/assets/a5aa9767-4073-4807-8d29-fa74a3323ad8)
 
+## Project Insights
+- Total deaths: 654K
+- Total recovered: 9M
+- Total active cases: 6M
+- Total new cases: 229K
+- Highest deaths by country: US (56K), India (44K), Brazil (23K), Peru (14K)
+- Highest new cases by WHO region: Americas (130K), South-East Asia (49K), Europe (22K)
+- Highest 1-week % increase by WHO region: Eastern Mediterranean (34.12%), Africa (22.46%), Americas (17.1%)
+- Highest 1-week % increase by country: Papua New Guinea (28.1%), Gambia (17.58%), Bahamas (8.51%)
+- Recovery rates are significantly higher than death rates in most countries.
+
+## Final Conclusion
+- Americas and South-East Asia lead in new Covid-19 case counts.
+- US, India, and Brazil are the most impacted in total deaths.
+- Emerging hotspots in smaller nations require urgent attention.
+- High recovery rates are encouraging, but persistent active cases show the pandemic is still ongoing.
+- Continuous monitoring and preventive measures remain essential worldwide.
 
   
