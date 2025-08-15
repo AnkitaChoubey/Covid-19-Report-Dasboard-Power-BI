@@ -27,7 +27,8 @@ The objective of this project is to analyze global Covid-19 data to track confir
 - Published a Covid-19 report dashboard for easy interpretation of the pandemic’s global status.
 
   ## Dashboard: 
-  ![Covid -19 Report](https://github.com/user-attachments/assets/a5aa9767-4073-4807-8d29-fa74a3323ad8)
+ <img width="1210" height="680" alt="Covid - 19 Dashboard image" src="https://github.com/user-attachments/assets/3c1e4a02-8310-477b-9405-1a06f344bbce" />
+
 
 ## Project Insights
 - Total deaths: 654K
