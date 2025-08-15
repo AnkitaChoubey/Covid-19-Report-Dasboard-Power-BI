@@ -15,7 +15,7 @@ The objective of this project is to analyze global Covid-19 data to track confir
 - Which countries and regions have the highest confirmed vs. active case counts?
 - How do deaths and recoveries compare across countries?
 
-  ## DasBoard Interaction  <a href="https://github.com/AnkitaChoubey/Covid-19-Report-Dasboard/blob/main/Covid.jpg">view Dashboard</a>
+  ## DasBoard Interaction   <img width="1180" height="665" alt="Covid- 19" src="https://github.com/user-attachments/assets/f28b2625-45a6-4c24-b38a-855205bf08ad" />
 
 ## Process:
 - Collected the global Covid-19 dataset containing country/region-level case and death statistics.
