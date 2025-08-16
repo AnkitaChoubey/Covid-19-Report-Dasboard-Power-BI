@@ -27,7 +27,8 @@ The objective of this project is to analyze global Covid-19 data to track confir
 - Published a Covid-19 report dashboard for easy interpretation of the pandemic’s global status.
 
   ## Dashboard: 
- <img width="1180" height="665" alt="Covid- 19" src="https://github.com/user-attachments/assets/7ba412b1-3464-481c-afce-090798114827" />
+ <img width="1326" height="743" alt="Screenshot 2025-08-16 125807" src="https://github.com/user-attachments/assets/9fc92db0-f61f-4897-8c83-7cfc827e9104" />
+
 
 
 
