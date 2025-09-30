@@ -27,7 +27,7 @@ The objective of this project is to analyze global Covid-19 data to track confir
 - Filtered data by Country/Region and WHO Region for dynamic analysis.
 - Published a Covid-19 report dashboard for easy interpretation of the pandemic’s global status.
 
-  ## Dashboard: 
+  ## Dashboard Preview
  <img width="1326" height="743" alt="Screenshot 2025-08-16 125807" src="https://github.com/user-attachments/assets/9fc92db0-f61f-4897-8c83-7cfc827e9104" />
 
 
