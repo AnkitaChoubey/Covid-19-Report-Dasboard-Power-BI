@@ -49,7 +49,7 @@ The objective of this project is to analyze global Covid-19 data to track confir
 - High recovery rates are encouraging, but persistent active cases show the pandemic is still ongoing.
 - Continuous monitoring and preventive measures remain essential worldwide.
 
-  ## Connect With Me
+## Connect With Me
 
 If you liked this project or want to collaborate, connect with me on:
 
